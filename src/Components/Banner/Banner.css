@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&display=swap');
 
 
-.banner{
-    height: 110vh;
+/* .banner{ */
+    /* height: 110vh; */
     /* object-fit: contain; */
 
-}
+/* } */
 .banner_contents{
     padding : 240px 0 20px 50px;
     line-height: 60px;
@@ -24,7 +24,6 @@
 
 .banner_button{
     padding: 10px 30px;
-    /* width: 10%; */
     background-color: rgba(190, 190, 190,0.5)
 }
 .banner_button:hover{
